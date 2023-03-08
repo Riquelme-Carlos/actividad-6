@@ -7,6 +7,6 @@
     <title>Vista del producto</title>
 </head>
 <body>
-    
+    Cambios 
 </body>
 </html>
