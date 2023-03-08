@@ -7,6 +7,6 @@
     <title>Vista del producto</title>
 </head>
 <body>
-    Cambios 
+    <p>Cambiando el documento para agregar tag</p>
 </body>
 </html>
