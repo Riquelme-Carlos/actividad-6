@@ -8,5 +8,6 @@
 </head>
 <body>
     <p>Cambiando el documento para agregar tag</p>
+    <a href="create.blade.php">Agregar producto</a>
 </body>
 </html>
